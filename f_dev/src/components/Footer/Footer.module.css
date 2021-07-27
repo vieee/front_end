@@ -1,0 +1,19 @@
+.paper {
+  height: 1.5rem;
+}
+
+.papers {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 11px;
+    text-align: center;
+    align-content: center;
+}

@@ -1,0 +1,4 @@
+.paper {
+    height: calc(100vh - 3.9rem);
+    background-color: #f1d8f7;
+}
